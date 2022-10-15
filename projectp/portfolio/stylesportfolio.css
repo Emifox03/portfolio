@@ -30,6 +30,7 @@
 
 .Cuadrao div.Cuadrito{
     background-image: linear-gradient(rgb(53, 17, 255),rgb(80, 5, 199),rgb(120, 36, 255));
+    border-radius: 10px;
     margin: 2rem;
     width: 15rem;
     height: 18rem;

@@ -1,4 +1,5 @@
 .Cuadrao{
+    display: flex;
     background-color: rgb(39, 39, 39);
     text-align: center;
     box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.5);
@@ -22,11 +23,8 @@
 }
 
 .Cuadrao div.Cuadrito{
-    display: flex;
     background-color: aquamarine;
     margin: 2rem;
     width: 5rem;
     height: 10rem;
-
-    
 }

@@ -12,8 +12,6 @@
     background-image: linear-gradient(rgba(87, 215, 253, 0.692), rgba(0, 162, 255, 0.658), rgba(170, 26, 170, 0.623));
 }
 
-
-
 .Cuadrao h1{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     -webkit-text-fill-color: white;
@@ -21,10 +19,4 @@
     padding-top: 50px;
 }
 
-.Cuadrao div.Recuadro{
-    background-color: rgb(211, 26, 26);
-    text-align: center;
-    height: 5em;
-    width: 10em;
-}
 

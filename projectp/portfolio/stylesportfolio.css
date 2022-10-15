@@ -23,7 +23,7 @@
 
 .Cuadrao div.Recuadro{
     background-color: rgb(211, 26, 26);
-    margin: 5em;
+    margin: 5em auto;
     text-align: center;
     height: 5em;
     width: 10em;

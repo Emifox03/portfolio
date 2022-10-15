@@ -24,6 +24,8 @@
 .Cuadrao div.Cuadrito{
     background-color: aquamarine;
     margin: 2px;
+    width: 20px;
+    height: 30px;
 
     
 }

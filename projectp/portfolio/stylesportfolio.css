@@ -16,7 +16,7 @@
 }
 
 .Cuadrao h1{
-    font-family: 'Teko', serif;
+    font-family: 'Special Elite', serif;
     -webkit-text-fill-color: white;
     font-weight: bolder;
     padding-top: 50px;
@@ -25,7 +25,6 @@
 .Cuadrao div.Localizador{
     display: flex;
     justify-content: space-around;
-    margin-top: 10rem;
 }
 
 .Cuadrao div.Cuadrito{

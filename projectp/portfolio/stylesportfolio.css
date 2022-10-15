@@ -23,6 +23,7 @@
 
 .Cuadrao a.Cuadrito{
     background-color: aquamarine;
+    margin: 2px;
     height: 20px;
     width: 10px;
 }

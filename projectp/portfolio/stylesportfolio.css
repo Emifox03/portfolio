@@ -21,4 +21,8 @@
     padding-top: 50px;
 }
 
-
+.Cuadrao a.Cuadrito{
+    background-color: aquamarine;
+    height: 20px;
+    width: 10px;
+}

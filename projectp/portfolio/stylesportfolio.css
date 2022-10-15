@@ -22,6 +22,7 @@
 }
 
 .Cuadrao div.Cuadrito{
+    display: flex;
     background-color: aquamarine;
     justify-content: center;
     margin: 2rem;

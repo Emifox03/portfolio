@@ -23,6 +23,8 @@
 }
 
 .Cuadrao a.Recuadro{
-    height: 300px;
+    background-color: aliceblue;
+    height: 10em;
+    width: 10em;
 }
 

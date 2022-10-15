@@ -21,7 +21,7 @@
     padding-top: 50px;
 }
 
-.Cuadrao a.Recuadro{
+.Cuadrao div.Recuadro{
     background-color: rgb(211, 26, 26);
     height: 20em;
     width: 10em;

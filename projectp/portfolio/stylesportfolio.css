@@ -24,7 +24,7 @@
 
 .Cuadrao div.Localizador{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .Cuadrao div.Cuadrito{

@@ -21,9 +21,9 @@
     padding-top: 50px;
 }
 
-.Cuadrao a.Cuadrito{
+.Cuadrao div.Cuadrito{
     background-color: aquamarine;
     margin: 2px;
-    height: 20px;
-    width: 10px;
+
+    
 }

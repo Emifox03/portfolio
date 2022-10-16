@@ -23,13 +23,13 @@
 }
 
 .Cuadrao h1.Titulo{
-    font-size: 70px;
+    font-size: 60px;
 }
 
 .Cuadrao div.Localizador{
     display: flex;
     justify-content: space-around;
-    margin-top: 6rem;
+    margin-top: 5rem;
 }
 
 .Cuadrao div.Cuadrito{

@@ -73,3 +73,10 @@
     height: 10rem;
     width: 10rem;
 }
+
+.Foto3{
+    height: 10rem;
+    width: 10rem;
+    border-radius: 50%;
+    margin-top: 0.5rem;
+}

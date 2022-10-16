@@ -44,3 +44,10 @@
 .Cuadrao h1.Minombre{
     padding-top: 190px;
 }
+
+.Circulito{
+    height: 30px;
+    width: 30px;
+    background-color: rgb(48, 48, 48);
+    border-radius: 50%;
+}

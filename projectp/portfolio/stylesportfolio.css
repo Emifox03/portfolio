@@ -65,6 +65,7 @@
 }
 
 .Foto2{
+    border-radius: 50%;
     height: 10rem;
     width: 10rem;
     padding-left: 100px;

@@ -22,6 +22,10 @@
     padding-top: 50px;
 }
 
+.Cuadrao h1.Titulo{
+    font-size: 30px;
+}
+
 .Cuadrao div.Localizador{
     display: flex;
     justify-content: space-around;

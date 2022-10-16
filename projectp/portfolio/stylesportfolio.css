@@ -46,6 +46,7 @@
 }
 
 .Circulito{
+    justify-self: center;
     height: 30px;
     width: 30px;
     background-color: rgb(48, 48, 48);

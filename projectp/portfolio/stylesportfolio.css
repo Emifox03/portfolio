@@ -46,9 +46,9 @@
 }
 
 .Circulito{
-    justify-self: center;
-    height: 30px;
-    width: 30px;
+
+    height: 3rem;
+    width: 3rem;
     background-color: rgb(48, 48, 48);
     border-radius: 50%;
 }

@@ -2,5 +2,5 @@
 
 function abrirportfolio()
 {
-    window.open("pangela/pangela.html");
+    window.open("pangela/pangela.html","_self");
 }

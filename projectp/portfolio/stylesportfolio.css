@@ -90,5 +90,9 @@
     width: 15rem;
     height: 18rem;
     transition: transform 0.4s;
-    
+    cursor: pointer;
+}
+
+.CuadritoA:hover{
+    transform: scale(1.3);
 }

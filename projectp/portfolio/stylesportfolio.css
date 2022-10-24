@@ -43,7 +43,7 @@
     
 }
 
-.Cuadrao div.Cuadrito:hover{
+.Cuadrito:hover{
     transform: scale(1.3);
 }
 

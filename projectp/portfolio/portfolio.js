@@ -3,5 +3,5 @@
 
 function abrirportfolio()
 {
-    window.open(pangela/pangela.html);
+    open(pangela/pangela.html);
 }

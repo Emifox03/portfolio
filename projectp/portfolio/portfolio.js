@@ -3,5 +3,5 @@
 
 function abrirportfolio()
 {
-    open();
+    window.open();
 }

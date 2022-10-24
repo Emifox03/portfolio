@@ -1,11 +1,12 @@
 .Body{
-    background-color: rgba(105, 255, 242, 0.726);
+    background-color: rgba(57, 255, 239, 0.726);
 }
 
 .Cuadrao{
     
     background-color: rgb(48, 48, 48);
     text-align: center;
+    height: 20rem;
     box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.5);
     border-radius: 10px;
     aspect-ratio: 3 / 1.4;

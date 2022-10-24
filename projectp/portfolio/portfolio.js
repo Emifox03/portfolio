@@ -3,5 +3,5 @@
 
 function abrirportfolio()
 {
-    open();
+    window.open(Emifox03/portfolio/projectp/portfolio/pangela/pangela.html);
 }

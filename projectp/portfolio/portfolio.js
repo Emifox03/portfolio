@@ -1,11 +1,11 @@
 
 
-function abrirportfolioA()
+function abrirportfolioE()
 {
     window.open("pemilio/main.html","_self");
 }
 
-function abrirportfolioE()
+function abrirportfolioA()
 {
     window.open("pangela/pangela.html","_self");
 }

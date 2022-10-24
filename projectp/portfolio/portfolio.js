@@ -3,5 +3,5 @@ alert("Es broma sois muy sexys");
 
 function abrirportfolio()
 {
-    open(Emifox03/portfolio/projectp/portfolio/pangela/pangela.html);
+    open(file:///C:/Users/Usuario/Desktop/portfolio/projectp/portfolio/pangela/pangela.html);
 }

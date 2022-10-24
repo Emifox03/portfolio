@@ -2,5 +2,5 @@
 
 function abrirportfolio()
 {
-    open();
+    open("pangela\pangela.html");
 }

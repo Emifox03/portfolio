@@ -87,3 +87,10 @@
     color: #cacaca;
     padding-top: 0.25rem;
 }
+
+.Cuadrao2 h6.UsuarioTerminal{
+    margin-top: 0rem; 
+    color: #16e599;
+    padding-top: 0.25rem;
+    text-align: left;
+}

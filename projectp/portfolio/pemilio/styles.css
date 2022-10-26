@@ -83,7 +83,7 @@
 }
 
 .Cuadrao2 h6.TituloTerminal{
-    margin-top: 0.3rem;
+    margin-top: 0rem;
     color: #cacaca;
     padding-top: 0.25rem;
 }
@@ -93,4 +93,5 @@
     color: #16e599;
     padding-top: 0.25rem;
     text-align: left;
+    margin-left: 0.5rem;
 }

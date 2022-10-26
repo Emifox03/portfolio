@@ -39,5 +39,17 @@ html{
     width: 25%;
     height: 50%;
     transform: translate(-50%, -50%);
-    
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    margin-bottom: 15px;
+}
+#gameBoard, .row{
+    display: flex;
+    flex-flow: row wrap;
 }

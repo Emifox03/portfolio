@@ -100,7 +100,7 @@ ctx.fillText("Score: " +score, canvas.clientWidth-50,10);// position our score a
 // clear our screen
  function clearScreen(){
 
-ctx.fillStyle= 'black'// make screen black
+ctx.fillStyle= 'aquamarine'// make screen black
 ctx.fillRect(0,0,canvas.clientWidth,canvas.clientHeight)// black color start from 0px left, right to canvas width and canvas height
 
  }

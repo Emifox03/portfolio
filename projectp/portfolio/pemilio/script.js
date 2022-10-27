@@ -7,7 +7,10 @@ function myFunction() {
                                                                 <br>
                                                                 <p class="UsuarioTerminal2">Usuario: EMILIO GOMEZ NEF </p>
                                                                 <br>
-                                                                <p class="UsuarioTerminal2" id="demo">Edad: 19 </p>
+                                                                <p class="UsuarioTerminal2">Edad: 19 </p>
+                                                                <br>
+                                                                <p class="UsuarioTerminal2">Estudios: Ing.Informatica UCO</p>
+
                                                             </div>`
 
 }

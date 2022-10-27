@@ -63,6 +63,10 @@
     margin-top: -1rem;
     color: #3C4048;
 }
+@keyframes expand{
+    0% {transform: scaleX(0.1);}
+    100% {transform: scaleX(1);}
+}
 
 .Cuadrao2 div.BordeTerminal{
     background-color: #303030;
@@ -71,6 +75,8 @@
     margin-left: 1.8rem;
     margin-right: 1.8rem;
     border-radius: 5px 5px 0px 0px;
+    animation-name: expand;
+    animation-duration: 0.2s;
 }
 
 .Cuadrao2 div.CuadraoTerminal{
@@ -80,13 +86,18 @@
     margin-left: 1.8rem;
     margin-right: 1.8rem;
     border-radius: 0px 0px 5px 5px;
+    animation-name: expand;
+    animation-duration: 0.2s;
 }
 
 .Cuadrao2 h6.TituloTerminal{
     margin-top: 0rem;
     color: #cacaca;
     padding-top: 0.25rem;
+    float: center;
 }
+
+
 
 .Cuadrao2 p.UsuarioTerminal{
     margin-top: 0rem; 
@@ -95,6 +106,7 @@
     text-align: left;
     margin-left: 0.5rem;
     font-size: 1.1rem;
+
 }
 
 .Cuadrao2 p.UsuarioTerminal2{
@@ -103,6 +115,7 @@
     text-align: left;
     margin-left: 0.5rem;
     font-size: 1.1rem;
+
 }
 
 .BotonTerminal{
@@ -112,4 +125,24 @@
 .BotonTerminal p{
     margin-top: 0px;
     font-size: 2rem;
+
 }
+
+
+@keyframes blink{
+    0% {color: #1d2325;}
+    100% {color: #16e599;}
+}
+
+.Cuadrao2 p.GuionTerminal{
+    margin-top: -1rem; 
+    color: #16e599;
+    text-align: left;
+    margin-left: 0.5rem;
+    font-size: 1.1rem;
+    animation-name: blink;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+
+}
+

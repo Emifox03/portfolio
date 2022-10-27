@@ -9,8 +9,10 @@ function myFunction() {
                                                                 <br>
                                                                 <p class="UsuarioTerminal2">Edad: 19 </p>
                                                                 <br>
-                                                                <p class="UsuarioTerminal2">Estudios: Ing.Informatica UCO</p>
-
+                                                                <p class="UsuarioTerminal2">Estudios: Ingenieria Informatica UCO</p>
+                                                                <br>
+                                                                <p class="UsuarioTerminal2">Estudios: Has terminado la carrera?(y/n)</p>
+                                                                <p class="GuionTerminal">_</p>
                                                             </div>`
 
 }

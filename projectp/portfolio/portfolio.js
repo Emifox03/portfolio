@@ -1,4 +1,3 @@
-alert('Panolis')
 
 function abrirportfolioE()
 {

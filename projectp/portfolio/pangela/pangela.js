@@ -91,9 +91,9 @@ function isGameOver(){
 
 // score function
 function drawScore(){
-ctx.fillStyle="white"// set our text color to white
-ctx.font="10px verdena"//set font size to 10px of font family verdena
-ctx.fillText("Score: " +score, canvas.clientWidth-50,10);// position our score at right hand corner 
+ctx.fillStyle="black"// set our text color to white
+ctx.font="20px verdena"//set font size to 10px of font family verdena
+ctx.fillText("Score: " +score, canvas.clientWidth-250,20);// position our score at right hand corner 
 
 }
 

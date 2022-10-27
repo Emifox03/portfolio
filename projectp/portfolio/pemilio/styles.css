@@ -94,4 +94,13 @@
     padding-top: 0.25rem;
     text-align: left;
     margin-left: 0.5rem;
+    font-size: 1.1rem;
+}
+
+.Cuadrao2 h6.UsuarioTerminal2{
+    margin-top: -1rem; 
+    color: #16e599;
+    text-align: left;
+    margin-left: 0.5rem;
+    font-size: 1.1rem;
 }

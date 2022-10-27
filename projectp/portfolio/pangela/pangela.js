@@ -11,7 +11,7 @@ function drawGame() {
 
 
 function clearScreen() {
-    ctx.fillStyle= 'aquamarine'
+    ctx.fillStyle= 'black'
     ctx.fillRect(0,0,canvas.clientWidth,canvas.clientHeight)
     
 }

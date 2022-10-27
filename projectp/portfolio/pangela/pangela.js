@@ -1,4 +1,4 @@
-alert(Panoli);
+Window.alert(Panoli);
 
 var gameBoardSize= 40;
 var gamePoints= 0;

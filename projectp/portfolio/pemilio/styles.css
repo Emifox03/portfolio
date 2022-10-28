@@ -44,7 +44,6 @@
 
 .Circulito{
 
-    
     margin-left: 10.5rem;
     margin-right: 10.5rem;
     height: 11rem;
@@ -71,8 +70,7 @@
 
 .Cuadrao2 div.BordeTerminal{
     background-color: #303030;
-    height: 1rem;
-    width: 28rem;
+    aspect-ratio: 1 / 0.04;
     margin-left: 1.8rem;
     margin-right: 1.8rem;
     border-radius: 5px 5px 0px 0px;
@@ -82,8 +80,7 @@
 
 .Cuadrao2 div.CuadraoTerminal{
     background-color: #1d2325;
-    height: 15rem;
-    width: 28rem;
+    aspect-ratio: 1 / 0.5;
     margin-left: 1.8rem;
     margin-right: 1.8rem;
     border-radius: 0px 0px 5px 5px;

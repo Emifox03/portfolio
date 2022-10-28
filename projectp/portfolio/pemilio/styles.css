@@ -39,7 +39,7 @@
     text-align: center;
     padding-top: 3rem;
     padding-bottom: 2rem;
-    font-family: 'Comfortaa', serif;
+    font-family: 'Ubuntu Mono', serif;
 }
 
 .Circulito{
@@ -116,6 +116,10 @@
 
 }
 
+.Cuadrao2 p.NombrePrograma{
+    font-family: 'Comfortaa', serif;
+}
+
 .BotonTerminal{
     cursor: pointer;
 }
@@ -141,6 +145,14 @@
     animation-name: blink;
     animation-duration: 1s;
     animation-iteration-count: infinite;
-
 }
 
+.Cuadrao1 h1.Titulo1{
+    font-family: 'Comfortaa', serif;
+    color: #cacaca;
+}
+
+.Cuadrao1 p.Parrafo1{
+    font-family: 'Comfortaa', serif;
+    color: #cacaca;
+}

@@ -6,7 +6,7 @@ function abrirportfolioE()
 
 function abrirportfolioA()
 {
-    window.open("pangela/pangela.html","_self");
+    window.open("pangela/pagina.html","_self");
 }
 
 function abrirportfolioG()

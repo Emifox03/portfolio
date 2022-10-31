@@ -1,6 +1,6 @@
 var setScroll = 0;
 
-function myFunction() {
+function funcionTerminal() {
     setScroll = 0;
     document.getElementById("cuadraoterminal").innerHTML =  `<div class="BordeTerminal">
                                                                 <h6 class="TituloTerminal">Terminal</h6>
@@ -27,3 +27,46 @@ document.addEventListener('keydown', function(event) {
         document.getElementById("scroll1").scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"});
     }
 });
+
+
+
+/*
+document.getElementById("slider").addEventListener("webkitAnimationEnd",derechaSlide);
+
+
+
+function derechaSlide() {
+    document.getElementById("slider").innerHTML =  `<div class="Slider2" id="slider">
+                                                        C++
+                                                    </div>`
+
+}
+*/
+
+var x = document.getElementById("slide");
+
+x.style.WebkitAnimation = "slide 2s 1"; // Code for Chrome, Safari and Opera
+
+
+
+/*
+x.addEventListener("webkitAnimationEnd", myEndFunction);
+
+function myEndFunction() {
+    this.innerHTML = "C++";
+    this.style.backgroundColor = "lightgray";
+}
+
+
+var x = document.getElementById("myDIV");
+
+x.style.WebkitAnimation = "mymove 2s 1"; 
+
+x.addEventListener("webkitAnimationEnd", myEndFunction);
+
+
+function myEndFunction() {
+    this.innerHTML = "animationend event occured - The animation has completed";
+    this.style.backgroundColor = "lightgray";
+}
+*/
